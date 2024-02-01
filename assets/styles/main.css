@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+article{
+    background-color: black;
+    color: white;
+}
+
+article{
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#Propiedades .properties__articles{
+    font-weight: bold;
+    text-decoration: underline;
+}
